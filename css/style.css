@@ -59,5 +59,12 @@ display: block;
 padding: 15px 0;
 color: #fff;
 text-decoration: none;
-background-color: #000;
 }
+
+#sidebar ul li a:hover {
+  background-color: #000;
+}
+
+
+
+
